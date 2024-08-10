@@ -22,8 +22,8 @@ To view the annotations, you can use the labelImg software. Follow these steps t
 ## Sample of Rollos
 Below are some sample images from rollos 40 and 38:
 
-<img width="565" alt="rollo" src="">
+<img width="565" alt="rollo" src="336920977-9f40fdcc-f8ed-443b-afda-866aec771730.png">
 
 
-<img width="568" alt="Rolloss" src="">
+<img width="568" alt="Rolloss" src="336921934-30880d76-b0f1-4743-8b2f-6ac0dfe22182.png">
 
