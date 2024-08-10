@@ -15,7 +15,7 @@ To view the annotations, you can use the labelImg software. Follow these steps t
 2. Clone this repository to your local machine.
 3. The main page of LabelImg will look like the image shown below. At the beginning, you have to set the directory where your images and XML files are saved. After that, you need to set the directory where changes will be saved. To view the annotations in the LabelImg software, make sure that the scanned images and their corresponding XML files are in the same directory, as organized in the images directory. The annotations will look like the image below. The bounding boxes with the green circles in the corners represent the labeling or annotation process we performed.
 
-<img width="959" alt="Notary" src="">
+<img width="959" alt="Notary" src="labelimg.png">
 
 
 
