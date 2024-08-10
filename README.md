@@ -25,10 +25,10 @@ SANRlite had 162 pages containing 900+ sentences. Each sentence (or a group of s
 
 ## Download
 
-|                          |                  Model                   |                  Tokenizer                  |
+|                          |                  Model and  Tokenizer                  |
 |:------------:|:----------------------------------------:|:-------------------------------------------:|
-| SANRlite Classification Model | [Model](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/Em6J8fzd4KxLtVMo4YtoPywBn8OcPcG4NW1upggdcIJ5Cw?e=Gkud58) | [Tokenizer](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/EkFVNqwHpDVOuFYT3hrxEEgBsG7ItzPm2NiMlbF5C1TxEQ?e=TZgkUC) |
-| SANRlite Masked Language Model | [Model](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/El2jWbHfDs1Jtb0-bLA4BGgBCbBL_xAJ4ro65JCsCsILPg?e=j1efVP)  | [Tokenizer](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/EhVwk6WAcudGsvaATfGAakEB3ccN6K4DMjl8e6Mew1zBSg?e=lYlCtY) |
+| SANRlite Classification  | [Link](https://drive.google.com/file/d/1hGmaO7HGoBFNH08tNKBj7m2m3_Rkrr6i/view?usp=sharing) |
+| SANRlite Masked Language | [Link](https://drive.google.com/file/d/1PNE1Hdz_vM9lXiYC0wKvG7kccUPv7NIz/view?usp=sharing) |
 
 <!-- If you wish to download and use the model and tokenizer, please follow the steps mentioned in the [model-README.md](model/model-README.md). -->
 
