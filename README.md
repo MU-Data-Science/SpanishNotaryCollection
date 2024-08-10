@@ -26,7 +26,7 @@ SANRlite had 162 pages containing 900+ sentences. Each sentence (or a group of s
 ## Download
 
 |                          |                  Model and  Tokenizer                  |
-|:------------:|:----------------------------------------:|:-------------------------------------------:|
+|:------------:|:-------------------------------------------:|
 | SANRlite Classification  | [Link](https://drive.google.com/file/d/1hGmaO7HGoBFNH08tNKBj7m2m3_Rkrr6i/view?usp=sharing) |
 | SANRlite Masked Language | [Link](https://drive.google.com/file/d/1PNE1Hdz_vM9lXiYC0wKvG7kccUPv7NIz/view?usp=sharing) |
 
