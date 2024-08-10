@@ -7,13 +7,13 @@ and transcribed text (and metadata) of 160+ pages that were handwritten by two n
 Nicolas de Valdivia y Brisuela nearly 400 years ago. Through empirical evaluation, we demonstrate that our collection can be used to
 fine-tune Spanish LLMs for tasks such as classification and masked language modeling. 
 
-For further details, refer to our arXiv [pre-print](https://arxiv.org/pdf/2406.05812).
+
 
 # Table of Contents 
 
 1. [Dataset](#dataset)
 2. [Model](#model)
-3. [Acknowledgements](#acknowledgement)
+
 
 
 # Dataset 
@@ -105,7 +105,4 @@ Install the required libraries using pip:
 
     print(output)
 
-
-# Acknowlegdement
-This work was supported by the National Endowments for the Humanities Grant No. HAA-287903-22.
 
